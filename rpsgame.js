@@ -76,3 +76,7 @@ resetBtn.addEventListener("click", function resetGame() {
     scissorsBtn.disabled = false;
     paperBtn.disabled = false;
 });
+
+
+function useless();
+
